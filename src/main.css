@@ -1,0 +1,60 @@
+.square {
+    height: 80px;
+    width: 80px;
+    border: 1px solid whitesmoke;
+    background-color: #555;
+    display: table-cell;
+      text-align: center;
+      vertical-align: middle;
+      color: white
+  }
+.row-2{
+    margin-left: 1px;
+}
+
+.row-1{
+    margin-left: 3px;
+}
+
+.pyramid{
+    margin-top: 60px;
+}
+.span{
+    margin-top: 45px;
+    margin-left: 10px;
+
+}
+h1 { color: rgb(241, 250, 243); font-family: 'Rouge Script', cursive;
+     font-size: 70px; font-weight: normal;
+     line-height: 48px; margin: 0 0 50px; text-align: center; 
+      text-shadow: 2px 3px 2px #082b34;
+     }
+
+.input{
+    width: 80px;
+    height: 70px;
+    margin-left: 3px;
+    font-size: 20px;
+    text-align: center;
+      vertical-align: middle;
+    background-color: rgb(248, 248, 248);
+}
+
+span{
+    font-size: 30px;
+    color: red;
+}
+
+#span{
+    font-size: 30px;
+    color:rgb(14, 199, 44);
+}
+
+.correct{
+    display: table-cell;
+
+}
+.wrong{
+    display: table-cell;
+
+}
